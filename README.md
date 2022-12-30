@@ -11,6 +11,6 @@ Repository content:
 
 Tutorials used: 
 
-1- https://www.youtube.com/watch?v=RFJerWR7kYQ _ Thank you very much to Manuel Gonzalez, he made an amazing job teaching python =) 
+1- https://www.youtube.com/watch?v=RFJerWR7kYQ _ Thank you very much to Manuel Gonzalez, he makes an amazing job teaching python =) 
 
 2- https://www.youtube.com/watch?v=tPYj3fFJGjk&t=7228s 

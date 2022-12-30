@@ -1,6 +1,5 @@
 # Tool-box-and-first-steps-
-This is a repository with some of my "first times" like my first zombie game with python or my first neural network with TensorFlow.  All the tutorials that I used you can find it on the readme. 
-
+This is a repository with some of my "first times" like my first zombie game with python or my first neural network with TensorFlow.  
 
 ![imagen](https://miro.medium.com/max/1120/0*nsgXxd0kwN3qT2ks.gif)
 
